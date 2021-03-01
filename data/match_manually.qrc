@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>glsl/line.vert.spv</file>
+        <file>glsl/line.frag.spv</file>
+        <file>glsl/images.vert.spv</file>
+        <file>glsl/images.frag.spv</file>
+        <file>glsl/images_sel.vert.spv</file>
+        <file>glsl/images_sel.frag.spv</file>
+        <file>glsl/imageKeypoints.vert.spv</file>
+        <file>glsl/imageKeypoints.frag.spv</file>
+        <file>glsl/imageKeypoints_sel.vert.spv</file>
+        <file>glsl/imageKeypoints_sel.frag.spv</file>
+    </qresource>
+</RCC>
